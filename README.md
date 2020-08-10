@@ -1,5 +1,4 @@
-# faceBlockChain
-人缘链 Blockchain faceBlock
+# faceBlockChain@faceBlock.io  人缘链 
 hi all,
      faceBlock now is very excited to annouce that:  we open source the kernel conensus protocol of faceblock chain(人缘链)。 
      the faceBlockChain is based on the top consensus develoment， and intergrated with our system engineer capablity. 
@@ -16,7 +15,7 @@ hi all,
 
       ｅｎｊｏｙ ｙｏｕｒ Ｍａｇｉｃ “Ｃｏｄｅ ｉｓ Ｖａｌｕｅ” ｔｒｉｐ！
 
-              ｃｏｄｅr : 华源慧
+              ｃｏｄｅr : 华源慧   (https://faceBlock.io)
 
               ２０２０/８／１０
 
